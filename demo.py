@@ -4,3 +4,6 @@ import time
 import RPi.GPIO as GPIO
 
 GPIO.setmode(GPIO.BCM)
+#Example: How to read in GPIO input on pin 20
+#GPIO.setup(20, GPIO.IN)
+
