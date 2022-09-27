@@ -1,5 +1,7 @@
 # pi-bci
-What is this: Low-Cost Brain Computer Interface designs. BCI hardware is expensive and manufacturing is focused on medical and research applications where $2000 is an accepable price to pay for materials. pi-bci aims to get the component costs at ~$100 and make it relatively easy for students and hobbyists to play with brain computer interfaces using EEGs etc. It's also quite annoying to have to be tethered to cables all the time. The goal of this project is to come up with a low cost bill of materials (BOM) and instructions to create a viable BCI device. 
+What is is: a Low-Cost Brain Computer Interface hardware design and code templates library. 
+
+BCI (brain/computer interface) hardware is expensive and manufacturing is focused on medical and research applications where $2000 is an accepable price to pay for materials. pi-bci aims to get the component costs at ~$100 and make it relatively easy for students and hobbyists to play with brain computer interfaces using EEGs etc. It's also quite annoying to have to be tethered to cables all the time. The goal of this project is to come up with a low cost bill of materials (BOM) and instructions to create a viable BCI device. 
 
 How to build a wireless $TBD BCI rig:
 
